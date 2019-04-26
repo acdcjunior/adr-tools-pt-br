@@ -1,4 +1,4 @@
-ADR Tools
+ADR Tools em Português-BR
 =========
 
 A command-line tool for working with a log of [Architecture Decision Records][ADRs] (ADRs).
