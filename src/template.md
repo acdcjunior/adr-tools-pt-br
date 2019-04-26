@@ -1,19 +1,19 @@
 # NUMBER. TITLE
 
-Date: DATE
+Data: DATE
 
 ## Status
 
 STATUS
 
-## Context
+## Contexto
 
-The issue motivating this decision, and any context that influences or constrains the decision.
+A questão ou problema que motiva esta decisão, e qualquer contexto que influencia ou restringe a decisão.
 
-## Decision
+## Decisão
 
-The change that we're proposing or have agreed to implement.
+A mudança que concordamos em implementar.
 
-## Consequences
+## Consequências
 
-What becomes easier or more difficult to do and any risks introduced by the change that will need to be mitigated.
+O que se torna mais fácil ou difícil de ser feito e quais os riscos introduzidos por essa mudança que precisam ser mitigados.
