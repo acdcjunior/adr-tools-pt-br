@@ -19,4 +19,4 @@ then
 fi
 
 VISUAL=true ADR_TEMPLATE="$adr_template_dir/init.md" \
-      "$adr_bin_dir/adr-new" record-architecture-decisions
+      "$adr_bin_dir/adr-new" registrar-decisoes-de-arquitetura-adrs
