@@ -1,4 +1,4 @@
-# 1. Registrar Decisões de Arquitetura (Architecture Decision Records - ADRs). 
+# 1. Registrar Decisões de Arquitetura (ADRs)
 
 Data: DATE
 
